@@ -9,6 +9,7 @@
 ![Heroshot](Pictures/Heroshot.png)
 
 ## Contents
+
 This folder contains the following:
 
 - Design PDFs: a collection of PDFs outlining key measurements of the original SMARS designs
@@ -23,6 +24,7 @@ This folder contains the following:
 ## The Design PDFs
 
 There are a couple of design documents that illustrate the key measurements and dimnesions for SMARS robots, these are:
+
 - [SMARS CE Wheel Hub.pdf]()
 - [SMARS CE Chassis.pdf]()
 
