@@ -26,7 +26,7 @@ This folder contains the following:
 There are a couple of design documents that illustrate the key measurements and dimnesions for SMARS robots, these are:
 
 - [SMARS_CE_Wheel_Hub.pdf](Design/SMARS_CE_Wheel_Hub.pdf)
-- [SMARS_CE_Chassis.pdf](SMARS_CE_Chassis.pdf)
+- [SMARS_CE_Chassis.pdf](Design/SMARS_CE_Chassis.pdf)
 
 ## The STLs
 
