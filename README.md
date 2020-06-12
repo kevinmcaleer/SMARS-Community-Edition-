@@ -20,6 +20,12 @@ This folder contains the following:
  For more information about the SMARS project, visit:
  <https://www.smarsfan.com>
 
+## The Design PDFs
+
+There are a couple of design documents that illustrate the key measurements and dimnesions for SMARS robots, these are:
+- [SMARS CE Wheel Hub.pdf]()
+- [SMARS CE Chassis.pdf]()
+
 ## The STLs
 
 The table below lists each of the STL files available for 3d printing, a short description and a rendered image of the part.
