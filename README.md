@@ -37,7 +37,7 @@ The table below lists each of the STL files available for 3d printing, a short d
 | [STLs/SMARS_CE_Master_Wheel.stl](STLs/SMARS_CE_Master_Wheel.stl)                   | Master Wheel        | ![Master Wheel](Pictures/SMARS_CE_Master_Wheel.png)               |
 | [STLs/SMARS_CE_Slave_Wheel.stl](STLs/SMARS_CE_Slave_Wheel.stl)                    | Slave wheel         | ![Slave Wheel](Pictures/SMARS_CE_Slave_Wheel.png)                 |
 | [STLs/SMARS_CE_Range_Finder_Holder.stl](STLs/SMARS_CE_Range_Finder_Holder.stl)             | Range Finder Holder | ![Range Finder Holder](Pictures/SMARS_CE_Range_Finder_Holder.png) |
-| [STLs/SMARS_CE_Range_Finder_Cover.stl](STLs/SMARS_CE_Range_Finder Cover.stl)       | Range Finder Cover  | ![Range Finder Cover](Pictures/SMARS_CE_Range_Finder_Cover.png)   |
+| [STLs/SMARS_CE_Range_Finder_Cover.stl](STLs/SMARS_CE_Range_Finder_Cover.stl)       | Range Finder Cover  | ![Range Finder Cover](Pictures/SMARS_CE_Range_Finder_Cover.png)   |
 | [STLs/SMARS_CE_Bumpy_Tyre.stl](STLs/SMARS_CE_Bumpy_Tyre.stl)                       | Bumpy Tyre          | ![Bumpy Tyre](Pictures/SMARS_CE_Bumpy_Tyre.png)                   |
 | [STLs/SMARS_CE_Trailer.stl](STLs/SMARS_CE_Trailer.stl)                             | Trailer             | ![Trailer](Pictures/SMARS_CE_Trailer.png)                         |
 | [STLs/SMARS_CE_Tyre.stl](STLs/SMARS_CE_Tyre.stl)                                   | Tyre                | ![Tyre](Pictures/SMARS_CE_Tyre.png)                               |
